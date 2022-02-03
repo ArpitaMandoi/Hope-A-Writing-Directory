@@ -1,0 +1,95 @@
+header {
+    margin: 10px solid black;
+    padding: 20px;
+    background-image: url(dog.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.nav_menu {
+    float: right;
+    list-style: none;
+    margin-top: 30px;
+}
+
+.nav_menu li {
+    display: inline-block;
+}
+
+.nav_menu li a {
+    color: black;
+    text-decoration: chocolate;
+    padding: 5px 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+
+.home {
+    margin: 5px solid black;
+    background-color: cornflowerblue;
+}
+
+.insta {
+    border: 15px black;
+    background-color:  rgb(216, 19, 95);
+    text-decoration-color: brown;
+}
+
+.nav_menu li a:hover {
+    border: 15px black;
+    background-color: antiquewhite;
+}
+
+.heading {
+    position: absolute;
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 1200px;
+    margin-left: 30px;
+    margin-top: 10px;
+    color: rgb(133, 39, 22);
+    font-family:cursive;
+    
+}
+
+.sub_head {
+    position: absolute;
+    font-size: 30px;
+    text-align:center;
+    margin-top: 100px;
+    margin-left: 1000px;
+    margin-right: 50px;
+    color: rgb(56, 45, 10);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+    .story {
+        padding: 10px;
+        margin-top: 70px;
+        text-align:justify;
+        text-decoration: antiquewhite;
+        color: rgb(231, 225, 207);
+        font-family: 'Times New Roman', Times, serif;
+        letter-spacing: 1px;
+        word-spacing: 5px;
+        width: 800px;
+        height: 600px;
+        overflow: scroll;
+        }
+    .aut_name {
+        position: absolute;
+    font-size: 20px;
+    text-align:end;
+    margin-top: 180px;
+    margin-left: 1200px;
+    margin-right: 30px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    }
+
+    .bttn {
+        border: 1px solid antiquewhite ;
+        color: black;
+        padding: 5px 20px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 20px;
+    }
